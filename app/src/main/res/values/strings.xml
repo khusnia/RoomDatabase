@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+
+    <string name="hint_word">Masukkan kata</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Data tidak tersimpan</string>
+    <string name="Simpan">Simpan</string>
+    <string name="description">description</string>
+</resources>
